@@ -1,0 +1,12 @@
+C:\Users\Vasya\mongodb-univercity-projects\mongodb-for-net-developers-course\week3-project\homework1\HomeWork3-1\bin\Debug\HomeWork3-1.exe.config
+C:\Users\Vasya\mongodb-univercity-projects\mongodb-for-net-developers-course\week3-project\homework1\HomeWork3-1\bin\Debug\HomeWork3-1.exe
+C:\Users\Vasya\mongodb-univercity-projects\mongodb-for-net-developers-course\week3-project\homework1\HomeWork3-1\bin\Debug\HomeWork3-1.pdb
+C:\Users\Vasya\mongodb-univercity-projects\mongodb-for-net-developers-course\week3-project\homework1\HomeWork3-1\bin\Debug\MongoDB.Bson.dll
+C:\Users\Vasya\mongodb-univercity-projects\mongodb-for-net-developers-course\week3-project\homework1\HomeWork3-1\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Vasya\mongodb-univercity-projects\mongodb-for-net-developers-course\week3-project\homework1\HomeWork3-1\bin\Debug\MongoDB.Driver.dll
+C:\Users\Vasya\mongodb-univercity-projects\mongodb-for-net-developers-course\week3-project\homework1\HomeWork3-1\bin\Debug\MongoDB.Bson.xml
+C:\Users\Vasya\mongodb-univercity-projects\mongodb-for-net-developers-course\week3-project\homework1\HomeWork3-1\bin\Debug\MongoDB.Driver.xml
+C:\Users\Vasya\mongodb-univercity-projects\mongodb-for-net-developers-course\week3-project\homework1\HomeWork3-1\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Vasya\mongodb-univercity-projects\mongodb-for-net-developers-course\week3-project\homework1\HomeWork3-1\obj\Debug\HomeWork3-1.csprojResolveAssemblyReference.cache
+C:\Users\Vasya\mongodb-univercity-projects\mongodb-for-net-developers-course\week3-project\homework1\HomeWork3-1\obj\Debug\HomeWork3-1.exe
+C:\Users\Vasya\mongodb-univercity-projects\mongodb-for-net-developers-course\week3-project\homework1\HomeWork3-1\obj\Debug\HomeWork3-1.pdb
