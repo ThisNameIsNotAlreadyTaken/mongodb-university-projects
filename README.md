@@ -1,2 +1,2 @@
-# mongodb-university-projects
-MongoDB University courses materials &amp; exercises
+# MongoDB University courses
+Materials &amp; exercises
